@@ -1,0 +1,9 @@
+#buttons{
+    display: flex;
+    justify-content: center;
+    border: solid black 1px;
+}
+
+#login, #signup {
+    margin: 10px;
+}
